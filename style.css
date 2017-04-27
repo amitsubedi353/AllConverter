@@ -1,0 +1,104 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 5, 2017, 4:51:29 PM
+    Author     : Alesh
+*/
+#header{
+	width:1200px;
+	height:100px;
+	border:solid #C66;
+	text-align:center;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:24px;
+	margin: 0 auto;
+	border-radius:10px;
+	background-color:#478FE7;
+	}
+#wrapper{
+	width:1200px;
+	height:280px;
+	border:solid #C66;
+	margin: 0 auto;
+	border-radius:10px;
+	background-color:#478FE7;
+	}
+#area1 { 
+   width:200px; 
+   height: 280px; 
+   background:red; float:left;
+   border-radius:10px;
+}
+
+#area2 { 
+   width:200px; 
+   height: 280px;
+   background:blue; 
+   float:left;
+   border-radius:10px;
+}
+#area3 { 
+   width:200px; 
+   height: 280px;
+   background:green;
+   float:left; 
+   border-radius:10px;
+}
+#area4 { 
+   width:200px; 
+   height: 280px; 
+   background:red;
+   float:left; 
+   border-radius:10px;
+}
+
+#area5 { 
+   width:200px; 
+   height: 280px;
+   background:blue; 
+   float:left;
+   border-radius:10px;
+}
+#area6 { 
+   width:200px; 
+   height: 280px;
+   background:green;
+   float:left; 
+   border-radius:10px;
+}
+h2{
+	text-align:center;
+	text-decoration:underline;
+	font-size:25px;
+	}
+#area1 input,#area2 input,#area3 input,#area4 input,#area5 input,#area6 input,#area7 input{
+	width:175px;
+	padding:2px;
+	border-radius:5px;
+	color:#666;
+	font-size:15px;
+	}
+
+#area1 button,#area2 button,#area3 button,#area4 button,#area5 button,#area6 button,#area7 button{
+	width:100px;
+	height:28px;
+	padding:2px;
+	color:#FFF;
+	font-weight:bold;
+	background:#CCC;
+	font-size:15px;
+	border-radius:5px;
+	}
+#area1 select,#area2 select,#area3 select,#area4 select,#area5 select,#area6 select,#area7 select{
+	width:175px;
+	height:28px;
+	padding:2px;
+	color:#FFF;
+	font-weight:bold;
+	background:#CCC;
+	font-size:15px;
+	border-radius:5px;
+	}
